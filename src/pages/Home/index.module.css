@@ -1,0 +1,20 @@
+.one {
+    width: 200px;
+    height: 300px;
+    margin: 300px auto;
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    width: 100px;
+    height: 40px;
+    margin-left: 50px;
+    background-color: #FF9671;
+    border: none;
+    border-radius: 20px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}

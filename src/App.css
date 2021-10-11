@@ -1,0 +1,15 @@
+/* base */
+
+body {
+    background-color: #FFF6F0;
+}
+
+ui li {
+    width: 200px;
+    height: 30px;
+    background-color: azure!important;
+    list-style: none!important;
+}
+
+
+/* base */
